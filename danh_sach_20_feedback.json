@@ -1,0 +1,122 @@
+[
+{
+"sentiment": "Positive",
+"topics": ["Product"],
+"score": 5,
+"summary": "Áo khoác chất vải dày dặn, đường may chắc chắn, lên form chuẩn như hình"
+},
+{
+"sentiment": "Negative",
+"topics": ["Delivery", "Product"],
+"score": 2,
+"summary": "Giao hàng nhanh nhưng bình giữ nhiệt bị móp một góc"
+},
+{
+"sentiment": "Negative",
+"topics": ["System"],
+"score": 1,
+"summary": "Ứng dụng bị văng khi thanh toán ví điện tử làm mất mã giảm giá"
+},
+{
+"sentiment": "Neutral",
+"topics": ["Product", "Delivery"],
+"score": 3,
+"summary": "Sản phẩm dùng tạm ổn so với giá và thời gian giao hàng đúng dự kiến"
+},
+{
+"sentiment": "Positive",
+"topics": ["Service", "Delivery", "Product"],
+"score": 5,
+"summary": "Nhân viên tư vấn nhiệt tình, đóng gói cẩn thận, giao hàng thân thiện và giày êm"
+},
+{
+"sentiment": "Negative",
+"topics": ["Service"],
+"score": 1,
+"summary": "Nhân viên phản hồi tin nhắn chậm, thái độ cộc lốc và thiếu tôn trọng"
+},
+{
+"sentiment": "Negative",
+"topics": ["Delivery", "Product"],
+"score": 1,
+"summary": "Giao hàng chậm cả tuần và giao nhầm cục gạch thay vì tai nghe bluetooth"
+},
+{
+"sentiment": "Neutral",
+"topics": ["System"],
+"score": 3,
+"summary": "Giao diện ứng dụng mới ban đầu hơi khó tìm mục đơn mua nhưng dùng dần quen"
+},
+{
+"sentiment": "Invalid",
+"topics": ["Invalid"],
+"score": 0,
+"summary": "Dữ liệu phản hồi không hợp lệ"
+},
+{
+"sentiment": "Invalid",
+"topics": ["Invalid"],
+"score": 0,
+"summary": "Dữ liệu phản hồi không hợp lệ"
+},
+{
+"sentiment": "Negative",
+"topics": ["Product", "Service"],
+"score": 1,
+"summary": "Nồi chiên không dầu hỏng nguồn và tổng đài hẹn nhiều lần chưa hỗ trợ đổi trả"
+},
+{
+"sentiment": "Positive",
+"topics": ["Delivery"],
+"score": 5,
+"summary": "Nhân viên giao hàng nhiệt tình, hẹn giờ giao tận tay và giữ hàng nguyên vẹn"
+},
+{
+"sentiment": "Negative",
+"topics": ["System", "Service"],
+"score": 1,
+"summary": "Hệ thống tự hủy đơn không báo trước và nhân viên chăm sóc khách hàng đổ lỗi"
+},
+{
+"sentiment": "Positive",
+"topics": ["System", "Product"],
+"score": 5,
+"summary": "Tính năng tìm kiếm hình ảnh nhạy và bàn phím cơ chính hãng dùng tốt"
+},
+{
+"sentiment": "Neutral",
+"topics": ["Service"],
+"score": 3,
+"summary": "Nhân viên hướng dẫn xuất hóa đơn đầy đủ và khách đang chờ kế toán phản hồi"
+},
+{
+"sentiment": "Negative",
+"topics": ["Delivery"],
+"score": 1,
+"summary": "Nhân viên tự ý xác nhận giao thành công và để hàng ngoài cổng không báo"
+},
+{
+"sentiment": "Positive",
+"topics": ["Product"],
+"score": 5,
+"summary": "Kem dưỡng ẩm thấm nhanh, không bết rít và giúp da dịu hẳn sau ba ngày"
+},
+{
+"sentiment": "Negative",
+"topics": ["Product", "Delivery"],
+"score": 3,
+"summary": "Sách in đẹp, nội dung hay nhưng đơn vị vận chuyển giao trễ hai ngày"
+},
+{
+"sentiment": "Negative",
+"topics": ["System", "Delivery", "Service"],
+"score": 1,
+"summary": "Ứng dụng báo sai tồn kho và cửa hàng tự ý giao nhầm màu không hỏi ý kiến"
+},
+{
+"sentiment": "Invalid",
+"topics": ["Invalid"],
+"score": 0,
+"summary": "Dữ liệu phản hồi không hợp lệ"
+}
+]
